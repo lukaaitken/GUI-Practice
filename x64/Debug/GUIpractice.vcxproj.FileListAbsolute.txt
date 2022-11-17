@@ -1,0 +1,4 @@
+C:\Users\Lukaa\source\repos\GUIpractice\GUIpractice\x64\Debug\GUIpractice.vcxproj.AssemblyReference.cache
+C:\Users\Lukaa\source\repos\GUIpractice\GUIpractice\x64\Debug\GUIpractice.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Lukaa\source\repos\GUIpractice\GUIpractice\x64\Debug\GUIpractice.MyForm.resources
+C:\Users\Lukaa\source\repos\GUIpractice\GUIpractice\x64\Debug\GUIpractice.vcxproj.GenerateResource.cache
